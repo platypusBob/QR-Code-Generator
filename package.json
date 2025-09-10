@@ -1,0 +1,23 @@
+{
+  "name": "qr-code-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platypusBob/QR-Code-Generator.git"
+  },
+  "author": "Matheus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/platypusBob/QR-Code-Generator/issues"
+  },
+  "homepage": "https://github.com/platypusBob/QR-Code-Generator#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^7.8.4",
+    "qr-image": "^3.2.0"
+  }
+}
